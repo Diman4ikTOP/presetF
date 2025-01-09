@@ -1,3 +1,4 @@
 # presetF
 Пример сайта
-<img scr"/img.png" alt>
+
+ <img src="/img.png" alt/>
